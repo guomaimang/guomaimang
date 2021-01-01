@@ -4,13 +4,13 @@
 
 韩佳明 8岁加入树叶组（后更名中学馆、中国学馆联盟），并成为其主要项目负责人；12岁成立应星科技；14岁加入中国共青团；17岁加入应星工作组义务实习计算机管理；18岁参与学馆社区和Kingdox应用建设；现任中国学馆联盟公益图书馆管理员、中国学馆联盟研究组聘请公益导师。
 
-查看认证：<https://www.hbstu.cn/v_research_hanjiaming/>
-
 <img src="https://www.hanjiaming.com.cn/wp-content/uploads/file/photo/b3919b5fb7d50964e986197240038e54.png" height="null" width="400" />
 
 📫 How to reach me: hanjiaming@zhongxueguan.cn
 
 🌱 I’m currently learning at HK PolyU.
+
+查看认证：<https://www.hbstu.cn/v_research_hanjiaming/>
 
 <!--
 **guomaimang/guomaimang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
