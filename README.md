@@ -7,6 +7,8 @@
 查看认证：<https://www.hbstu.cn/v_research_hanjiaming/>
 
 <img src="https://www.hanjiaming.com.cn/wp-content/uploads/file/photo/b3919b5fb7d50964e986197240038e54.png" height="null" width="400" />
+📫 How to reach me: hanjiaming@zhongxueguan.cn
+🌱 I’m currently learning at HK PolyU.
 
 <!--
 **guomaimang/guomaimang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
