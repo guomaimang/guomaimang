@@ -4,14 +4,16 @@
 * DIRECTION：Computing、Artificial Intelligence、Data Analysis
 * EXPERIENCE：Python、C & C++、Go、Java、Rust、HTML & JS & CSS & Mysql & PHP、PostgreSQL、Swift、Kotlin & Flutter
 
+📫 How to reach me: hanjiaming@zhongxueguan.cn
+
+🌱 I’m currently learning at HK PolyU.
 
 * Primary school: Ningjin County Second Experimental Primary School 
 * Junior High School: The Fifth Middle School of Hengshui City 
 * High school: Hengshui No. 1 Middle School (South Campus of Hebei Hengshui Middle School) 
 * University: The Hong Kong Polytechnic University（香港理工大學）@HKPU-COMP
 
-📫 How to reach me: hanjiaming@zhongxueguan.cn
-🌱 I’m currently learning at HK PolyU.
+
 
 <!--
 **guomaimang/guomaimang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
