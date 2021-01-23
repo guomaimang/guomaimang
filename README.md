@@ -1,4 +1,4 @@
-## 韩佳明的资料
+## 韩佳明的资料（Hongshu's Profile)
 
 * LANGUAGE：Mandarin Chinese, English
 * DIRECTION：Computing、Artificial Intelligence、Data Analysis
@@ -7,6 +7,8 @@
 📫 How to reach me: hanjiaming@zhongxueguan.cn
 
 🌱 I’m currently learning at HK PolyU.
+
+⚡ You can get more information by searching Hongshu,Guomaimang,Hirsun,Hanjiaming
 
 * Primary school: Ningjin County Second Experimental Primary School 
 * Junior High School: The Fifth Middle School of Hengshui City 
