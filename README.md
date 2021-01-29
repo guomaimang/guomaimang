@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning at HK PolyU.
 
+💬 My Bolg: http://hjm.red
+
 ⚡ You can get more information by searching Hongshu,Guomaimang,Hirsun,Hanjiaming
 
 * Primary school: Ningjin County Second Experimental Primary School 
