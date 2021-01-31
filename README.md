@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning at HK PolyU.
 
-💬 My Bolg: http://hjm.red
+💬 My Bolg: https://www.hanjiaming.com.cn
 
 ⚡ You can get more information by searching Hongshu,Guomaimang,Hirsun,Hanjiaming
 
