@@ -6,7 +6,7 @@
 
 📫 How to reach me: hanjiaming@zhongxueguan.cn
 
-🌱 I’m currently learning at HK PolyU.
+🌱 I’m currently learning at HK PolyU as a Freshman.
 
 🌏 I’m currently serving as student representatives on the Faculty Board of Engineering at HK PolyU. 
 
